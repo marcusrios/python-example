@@ -4,7 +4,7 @@ Sample dockerized Python application
 ### Build
 
 ```bash
-docker build -t your-repo:name-of-image:tag .
+docker build -t your-repo/name-of-image:tag .
 ```
 
 ### Deploy
